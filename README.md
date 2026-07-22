@@ -189,7 +189,7 @@ Provider-agnostic **personal AI assistant** — tool calling, durable memory, pr
 
 **☁️ &nbsp;Cloud · DevOps &nbsp;&nbsp;|&nbsp;&nbsp; 🧰 &nbsp;Tools · Craft**
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,linux,kali,bash,figma,postman,playwright,ps&theme=dark&perline=13"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,linux,kali,bash,figma,postman,ps&theme=dark&perline=13"/>
 
 </div>
 
