@@ -201,14 +201,9 @@ Provider-agnostic **personal AI assistant** — tool calling, durable memory, pr
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy352&show_icons=true&count_private=true&hide_border=true&title_color=1CB5A3&icon_color=1CB5A3&text_color=c9d1d9&bg_color=0D1117"/>
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=SanthoshReddy352&hide_border=true&background=0D1117&stroke=1A5F6B&ring=1CB5A3&fire=1CB5A3&currStreakLabel=1CB5A3&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshReddy352&layout=compact&hide_border=true&langs_count=10&title_color=1CB5A3&text_color=c9d1d9&bg_color=0D1117"/>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshReddy352&bg_color=0D1117&color=1CB5A3&line=1CB5A3&point=ffffff&area=true&hide_border=true"/>
-
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=SanthoshReddy352&theme=algolia&no-frame=true&column=7&margin-w=4&margin-h=4"/>
 
 </div>
 
