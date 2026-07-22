@@ -1,240 +1,182 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        G. SANTHOSH REDDY · THE NEXUS                     -->
-<!--   Profile README — https://github.com/SanthoshReddy352                   -->
+<!--   THE NEXUS · The Selected Works of G. Santhosh Reddy                     -->
+<!--   An editorial profile — https://github.com/SanthoshReddy352              -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<a href="https://santhosh-reddy.vercel.app">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Santhosh%20Reddy&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=AI%20Systems%20Design%20Engineer&descSize=22&descAlignY=56&animation=fadeIn" alt="header"/>
-</a>
 
 <div align="center">
 
-<!-- TYPING ANIMATION -->
+<sub>E S T.  2 0 2 6 &nbsp;·&nbsp; A I&nbsp; S Y S T E M S&nbsp; &&nbsp; C R A F T &nbsp;·&nbsp; N E L L O R E,&nbsp; I N D I A</sub>
+
+<!-- MASTHEAD WORDMARK (serif, theme-adaptive, transparent) -->
 <a href="https://santhosh-reddy.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=760&height=45&lines=Building+autonomous+AI+systems+%F0%9F%A4%96;RAG+pipelines+%26+agentic+workflows+%E2%9A%A1;Local-first%2C+privacy-focused+intelligence+%F0%9F%94%92;Where+code%2C+creativity+%26+craft+converge+%E2%97%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=64&pause=99999&color=B08D57&center=true&vCenter=true&width=680&height=100&lines=THE+NEXUS" alt="THE NEXUS"/>
 </a>
+
+**T H E &nbsp; S E L E C T E D &nbsp; W O R K S &nbsp; O F**
+### G. Santhosh Reddy
+*AI Systems Design Engineer*
+
+<!-- ROTATING DEK -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=18&pause=1400&color=808080&center=true&vCenter=true&width=560&height=40&lines=Autonomous+AI+systems;RAG+%26+agentic+workflows;Local-first+intelligence;Code+%C2%B7+Creativity+%C2%B7+Craft" alt="dek"/>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://santhosh-reddy.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-The%20Nexus-2C5364?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F2027" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/santhoshreddy-19x"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/></a>
-<a href="https://x.com/GSanthoshReddy9"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0F2027" alt="X"/></a>
-<a href="https://www.instagram.com/santhosh_19x"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0F2027" alt="Instagram"/></a>
-<a href="mailto:gsreddy1182006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email"/></a>
+[**Portfolio**](https://santhosh-reddy.vercel.app) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/santhoshreddy-19x) &nbsp;·&nbsp; [**X**](https://x.com/GSanthoshReddy9) &nbsp;·&nbsp; [**Instagram**](https://www.instagram.com/santhosh_19x) &nbsp;·&nbsp; [**Email**](mailto:gsreddy1182006@gmail.com)
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SanthoshReddy352&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/SanthoshReddy352?label=Followers&style=for-the-badge&color=2C5364&labelColor=0F2027" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/SanthoshReddy352?label=Stars&style=for-the-badge&color=2C5364&labelColor=0F2027" alt="Stars"/>
+<sub>VOL. 01 &nbsp;—&nbsp; NO. 01 &nbsp;·&nbsp; <img src="https://komarev.com/ghpvc/?username=SanthoshReddy352&label=readers&color=B08D57&style=flat-square" alt="readers" height="15"/></sub>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+---
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<div align="center">
+<i>An engineer building autonomous agents, RAG pipelines, and local-first intelligence —<br/>
+where rigorous systems engineering meets a craftsman's eye for detail.</i>
+</div>
 
-## 🧠 &nbsp;About Me
+---
 
-```python
-class SanthoshReddy:
-    def __init__(self):
-        self.role       = "AI Systems Design Engineer"
-        self.location   = "Nellore, Andhra Pradesh, India 🇮🇳"
-        self.focus      = ["Autonomous Agents", "RAG Pipelines", "Local-First AI"]
-        self.philosophy = "Rigorous engineering + a craftsman's eye for detail"
+### N⁰ 01 &nbsp;·&nbsp; THE ENGINEER
 
-    def current_mission(self):
-        return "Bridging cutting-edge AI architectures with intuitive UX ⚡"
-```
-
-- 🤖 &nbsp;I build **autonomous systems, RAG pipelines & agentic workflows**
-- 🏗️ &nbsp;Focused on **scalable ML infrastructure** and **high-performance neural interfaces**
-- 🔒 &nbsp;Passionate about **local-first, privacy-focused** intelligence
-- 🌐 &nbsp;Explore my work → **[santhosh-reddy.vercel.app](https://santhosh-reddy.vercel.app)**
-- 💬 &nbsp;Ask me about **LLMs, agent design, and full-stack AI products**
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
+I design and build **AI systems that run on your terms** — self-hosted assistants, on-device voice agents, reproducible data engines, and the full-stack products that wrap them. My work sits at the seam between cutting-edge model architectures and interfaces people actually enjoy using.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🤖 [Namma Agent](https://github.com/SanthoshReddy352/Namma-Agent)
-Provider-agnostic **personal AI assistant** with tool calling, durable memory, project RAG & graph recall. Self-hosted with a layered trust model.
-<br/><br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+**Currently exploring**
+Agentic workflows · durable agent memory · retrieval that behaves like a living graph rather than keyword search.
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-### 🎙️ [FRIDAY](https://github.com/SanthoshReddy352/Friday_Linux)
-**Local-first voice AI** desktop assistant for Linux & Windows. Speech, vision, planning & RAG run fully on-device — zero cloud dependency.
-<br/><br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/-LangGraph-FF6F61?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF7A00?style=flat-square)
-![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 [DataDoom](https://github.com/SanthoshReddy352/datadoom)
-**Local-first synthetic data engine** — reproducible, version-controllable datasets from `(spec, seed)`. Ships as a library, CLI & web Canvas.
-<br/><br/>
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [Learnify](https://github.com/SanthoshReddy352/Learnify)
-**AI-powered adaptive learning** with knowledge graphs & SM-2 spaced repetition. Topics unlock as you master prerequisites.
-<br/><br/>
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎟️ [EventX](https://github.com/SanthoshReddy352/Event-Platform)
-Full-featured **event management platform** for college clubs — dynamic form builder, role-based access & Razorpay payments.
-<br/><br/>
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📰 [Feed Prism](https://github.com/SanthoshReddy352/Feed-Prism)
-**Real-time news intelligence** aggregating 500+ global sources with dedup, categorization & company monitoring.
-<br/><br/>
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![RSS](https://img.shields.io/badge/-RSS-FFA500?style=flat-square&logo=rss&logoColor=white)
-![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+**Craft & values**
+Local-first · privacy by default · measurable benchmarks · honest trade-offs · typography and detail.
 
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<div align="center">◆</div>
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
+### N⁰ 02 &nbsp;·&nbsp; SELECTED WORKS
 
-## 🛠️ &nbsp;Tech Stack
+<table>
+<tr>
+<td valign="top" align="right" width="12%"><h4>N⁰ 01</h4></td>
+<td valign="top">
+
+**[Namma Agent](https://github.com/SanthoshReddy352/Namma-Agent)** &nbsp;<sub>★ 5</sub>
+*A provider-agnostic personal AI assistant — tool calling, durable memory, project RAG, and graph recall, fully self-hosted behind a layered trust model.*
+<sub>PYTHON · FASTAPI · REACT · SQLITE · MCP</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="right"><h4>N⁰ 02</h4></td>
+<td valign="top">
+
+**[FRIDAY](https://github.com/SanthoshReddy352/Friday_Linux)**
+*A local-first, voice-driven desktop assistant for Linux & Windows — speech, vision, planning, and RAG run entirely on-device, with no cloud dependency.*
+<sub>PYTHON · LANGGRAPH · CHROMADB · PYQT6</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="right"><h4>N⁰ 03</h4></td>
+<td valign="top">
+
+**[DataDoom](https://github.com/SanthoshReddy352/datadoom)**
+*A local-first synthetic-data engine — reproducible, version-controllable datasets from a single `(spec, seed)`, shipped as a library, CLI, and interactive web Canvas.*
+<sub>PYTHON · FASTAPI · REACT FLOW · NUMPY</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="right"><h4>N⁰ 04</h4></td>
+<td valign="top">
+
+**[Learnify](https://github.com/SanthoshReddy352/Learnify)**
+*AI-powered adaptive learning — knowledge graphs and SM-2 spaced repetition where each topic unlocks only once its prerequisites are mastered.*
+<sub>NEXT.JS · SUPABASE · GEMINI · CAPACITOR</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="right"><h4>N⁰ 05</h4></td>
+<td valign="top">
+
+**[EventX](https://github.com/SanthoshReddy352/Event-Platform)**
+*A full-featured event-management platform for college clubs — a dynamic form builder, role-based access control, and integrated Razorpay payments.*
+<sub>NEXT.JS · REACT · SUPABASE · TAILWIND</sub>
+
+</td>
+</tr>
+<tr>
+<td valign="top" align="right"><h4>N⁰ 06</h4></td>
+<td valign="top">
+
+**[Feed Prism](https://github.com/SanthoshReddy352/Feed-Prism)**
+*Real-time news intelligence aggregating 500+ global sources with deduplication, categorization, and dedicated company monitoring.*
+<sub>NEXT.JS · SUPABASE · RSS · CAPACITOR</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">◆</div>
+
+### N⁰ 03 &nbsp;·&nbsp; THE TOOLKIT
+
+<table>
+<tr><td valign="top"><b>LANGUAGES</b></td><td>Python · TypeScript · JavaScript · C++ · Java · Go · Bash</td></tr>
+<tr><td valign="top"><b>AI / ML / DATA</b></td><td>PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas · Jupyter · ONNX</td></tr>
+<tr><td valign="top"><b>LLM ENGINEERING</b></td><td>Anthropic · OpenAI · Gemini · Hugging Face · LangChain · LangGraph · LlamaIndex · vLLM · ChromaDB</td></tr>
+<tr><td valign="top"><b>WEB & FRONTEND</b></td><td>Next.js · React · Tailwind CSS · HTML5 · CSS3</td></tr>
+<tr><td valign="top"><b>BACKEND & DATA</b></td><td>FastAPI · Node.js · PostgreSQL · MongoDB · MySQL · SQLite · Supabase · Firebase · Redis · Kafka</td></tr>
+<tr><td valign="top"><b>CLOUD & DEVOPS</b></td><td>AWS · Azure · Docker · Kubernetes · GitHub Actions</td></tr>
+<tr><td valign="top"><b>TOOLS & CRAFT</b></td><td>Git · Linux · Kali · Figma · Postman · Playwright · Photoshop</td></tr>
+</table>
+
+<div align="center">◆</div>
+
+### N⁰ 04 &nbsp;·&nbsp; BY THE NUMBERS
 
 <div align="center">
 
-**🧠 AI · Machine Learning · Data Science**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy352&show_icons=true&count_private=true&hide_border=true&title_color=B08D57&icon_color=B08D57&text_color=808080&bg_color=00000000" alt="stats"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=SanthoshReddy352&hide_border=true&background=00000000&stroke=B08D57&ring=B08D57&fire=B08D57&currStreakLabel=B08D57&sideLabels=808080&dates=808080&currStreakNum=808080&sideNums=808080" alt="streak"/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv&theme=dark&perline=10" alt="ai"/>
-<br/>
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-FF6F61?style=for-the-badge" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/LlamaIndex-4A2FBD?style=for-the-badge" alt="LlamaIndex"/>
-<img src="https://img.shields.io/badge/vLLM-1868F2?style=for-the-badge" alt="vLLM"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF7A00?style=for-the-badge" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
-
-<br/><br/>
-
-**🌐 Web · Frontend · Languages**
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,cpp,java,go&theme=dark&perline=10" alt="web"/>
-
-<br/><br/>
-
-**⚙️ Backend · Databases · Messaging**
-
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mongodb,mysql,sqlite,supabase,firebase,redis,kafka&theme=dark&perline=10" alt="backend"/>
-
-<br/><br/>
-
-**☁️ Cloud · DevOps · Infrastructure**
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions&theme=dark&perline=10" alt="devops"/>
-
-<br/><br/>
-
-**🧰 Tools · Design · Security**
-
-<img src="https://skillicons.dev/icons?i=git,linux,kali,bash,figma,postman,playwright,ps&theme=dark&perline=10" alt="tools"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshReddy352&bg_color=00000000&color=B08D57&line=B08D57&point=808080&area=true&hide_border=true" alt="activity graph"/>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
+<div align="center">◆</div>
 
-<!-- ═══════════════════════════ ANALYTICS ═══════════════════════════ -->
+### N⁰ 05 &nbsp;·&nbsp; THE FIELD NOTES
 
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanthoshReddy352&show_icons=true&count_private=true&hide_border=true&title_color=38BDAE&icon_color=38BDAE&text_color=c9d1d9&bg_color=0D1117" alt="stats"/>
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=SanthoshReddy352&hide_border=true&background=0D1117&stroke=2C5364&ring=38BDAE&fire=38BDAE&currStreakLabel=38BDAE&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshReddy352&layout=compact&hide_border=true&langs_count=10&title_color=38BDAE&text_color=c9d1d9&bg_color=0D1117" alt="top langs"/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanthoshReddy352&bg_color=0D1117&color=38BDAE&line=2C5364&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=SanthoshReddy352&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
-
-## 🐍 &nbsp;Contribution Snake
+<sub>A serpent tracing a year of commits.</sub>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanthoshReddy352/SanthoshReddy352/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanthoshReddy352/SanthoshReddy352/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SanthoshReddy352/SanthoshReddy352/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SanthoshReddy352/SanthoshReddy352/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider"/>
-
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+---
 
 <div align="center">
 
-### 💬 Let's Build Something Intelligent Together
+## “ Where code, creativity & craft converge. ” &nbsp;◆
 
-<a href="mailto:gsreddy1182006@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-gsreddy1182006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027"/></a>
-<a href="https://santhosh-reddy.vercel.app"><img src="https://img.shields.io/badge/Enter%20The%20Nexus-2C5364?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0F2027"/></a>
+**[ START A CONVERSATION → ](mailto:gsreddy1182006@gmail.com)**
 
-<br/><br/>
+<br/>
 
-<i>"Where code, creativity & craft converge." ◆</i>
+<sub>Set in Playfair Display & JetBrains Mono. &nbsp;·&nbsp; Published from Nellore, Andhra Pradesh.<br/>© 2026 &nbsp; T H E &nbsp; N E X U S</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer"/>
